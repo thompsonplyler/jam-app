@@ -1,21 +1,3 @@
-
-# What to build
-- A daily quote app
-    - API that supplies quotes (inspirational, funny, etc.)
-- Portfolio Site
-    - photo gallery api
-    - github api
-- A reservation app
-    - Time and dates to make appointments
-    - Restaurants API
-    - Booksy API
-- Timer
-- News App
-
----
-
-Before we add features, let's see what sort of return we're getting. 
-
 # Features to build out
 Users will be able to: 
 - Search for poem based on author
