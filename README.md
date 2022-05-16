@@ -1,4 +1,4 @@
-# Features to build out
+## Features to build out
 Users will be able to: 
 - Search for poem based on author
 - Keyword search
@@ -14,15 +14,10 @@ Front-End Experience:
 - Present as a table
 
 Or cards. 
-# Resources
+## Resources
 - poetrydb
 
-# What are our steps?
-- 
-
-
----
-# User Journey
+## User Journey
 - User arrives to home page. 
     - Title 
     - Single Search Field (with button?)
